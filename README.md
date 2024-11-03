@@ -2,4 +2,4 @@
 
 # Added my name to the Jupyter labnotebook
 
-# Saved it at my NWMSU id number
+# Saved it as my NWMSU id number
